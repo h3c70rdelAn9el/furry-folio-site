@@ -9,14 +9,14 @@
   "author": "H3C70R",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.1.0",
+    "bootstrap": "^4.3.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
-    "popper.js": "^1.14.3"
+    "popper.js": "^1.14.7"
   },
   "devDependencies": {
-    "browser-sync": "^2.23.6",
-    "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.1"
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
   }
 }
